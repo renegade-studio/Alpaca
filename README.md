@@ -4,6 +4,8 @@
   </a>
 </div>
 
+<img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/a7bc3d31-2ceb-412c-90c8-e13084a13f43" /> we moving differently
+
 # Ollama
 
 Get up and running with large language models.
